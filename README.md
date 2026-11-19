@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Isai%20Dardón%20Mayén&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Desarrollador%20Full-Stack%20%C2%B7%20Backend%20%C2%B7%20DevOps&descAlignY=58&descSize=18" alt="Banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Estudiante+de+cierre+en+Ingenier%C3%ADa+en+Ciencias+y+Sistemas;Desarrollo+web+Frontend+%2B+Backend;Docker+%C2%B7+Linux+%C2%B7+Bases+de+datos;Abierto+a+nuevas+oportunidades" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=800&height=40&lines=Ciencias+y+Sistemas+%C2%B7+USAC;Desarrollo+web+Frontend+%2B+Backend;Docker+%C2%B7+Linux+%C2%B7+Bases+de+datos;Abierto+a+nuevas+oportunidades" alt="Typing SVG"/>
 
 📍 Ciudad de Guatemala &nbsp;·&nbsp; 🎓 Universidad de San Carlos de Guatemala
 
@@ -15,20 +15,6 @@
 Soy estudiante de cierre de **Ingeniería en Ciencias y Sistemas (USAC)**. Desarrollo aplicaciones web de punta a punta: interfaces modernas y responsivas en el frontend, y módulos de software y bases de datos SQL en el backend. También despliego proyectos con **Docker en servidores Linux** y trabajo en equipo con **Git Flow**, pull requests y code reviews.
 
 Me gusta aprender tecnologías nuevas y adaptarme a distintos entornos. Estoy abierto a puestos donde pueda aportar valor, ya sea de desarrollo, backend o infraestructura.
-
----
-
-## 💼 Experiencia
-
-**Tutor de Infraestructura y Desarrollo de Software** · Laboratorios 013-014, Escuela de Ciencias y Sistemas, USAC · *Ene 2026 – presente*
-- Desarrollé un módulo de asistencia con **reconocimiento facial (Face ID)** para tutores, dentro del Sistema de Gestión de Laboratorios.
-- Desplegué proyectos en producción con **Docker** en un servidor **Linux**.
-- Mantengo la base de datos **SQL** del sistema y colaboro con **GitHub y GitFlow**.
-
-**Desarrollador Frontend** · TechnoMaya (equipo freelance) · Flex Pilates · *Oct 2024 – presente · Remoto*
-- Construí interfaces modernas, responsivas y accesibles, alineadas al branding del cliente.
-- Optimicé el rendimiento y la experiencia de usuario en aplicaciones móviles.
-- Trabajo con Git Flow, pull requests y code reviews.
 
 ---
 
