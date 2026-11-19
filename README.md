@@ -50,7 +50,7 @@ Me gusta aprender tecnologías nuevas y adaptarme a distintos entornos. Estoy ab
 
 <img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-personales.svg" alt="Proyectos personales" width="830"/>
 
-<sub>Esta sección crece con cada proyecto nuevo que construyo fuera de la universidad.</sub>
+⚡ **Ideas que se convierten en código.** Lo que construyo por pasión, un proyecto a la vez: cada lanzamiento nuevo aterriza aquí.
 
 <a href="https://github.com/IsaiDardonMayen?tab=repositories"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-personal-next.svg" alt="Próximamente" width="270"/></a>
 
