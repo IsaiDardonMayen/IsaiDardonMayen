@@ -22,35 +22,34 @@
 
 <img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-sobre-mi.svg" alt="Sobre mí" width="830"/>
 
-Soy estudiante de cierre de **Ingeniería en Ciencias y Sistemas (USAC)**. Desarrollo aplicaciones web de punta a punta: interfaces modernas y responsivas en el frontend, y módulos de software y bases de datos SQL en el backend. También despliego proyectos con **Docker en servidores Linux** y trabajo en equipo con **Git Flow**, pull requests y code reviews.
-
-Me gusta aprender tecnologías nuevas y adaptarme a distintos entornos. Estoy abierto a puestos donde pueda aportar valor, ya sea de desarrollo, backend o infraestructura.
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/about.svg" alt="Sobre mí" width="830"/>
 
 ---
 
 <img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-stack.svg" alt="Stack" width="830"/>
 
-**Lenguajes**
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/lbl-lenguajes.svg" alt="Lenguajes" width="300"/>
 
-![JavaScript](https://skillicons.dev/icons?i=js,ts,java,python,go,cpp,cs&perline=7)
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,go,cpp,cs&perline=7" height="60" alt="js,ts,java,python,go,cpp,cs"/>
 
-**Frontend**
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/lbl-frontend.svg" alt="Frontend" width="300"/>
 
-![Frontend](https://skillicons.dev/icons?i=html,css,angular,tailwind,figma&perline=5)
+<img src="https://skillicons.dev/icons?i=html,css,angular,tailwind,figma&perline=5" height="60" alt="html,css,angular,tailwind,figma"/>
 
-**Backend y bases de datos**
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/lbl-backend.svg" alt="Backend y bases de datos" width="300"/>
 
-![Backend](https://skillicons.dev/icons?i=dotnet,mysql,postgres,mongodb&perline=4) &nbsp; `SQL Server`
+<img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres,mongodb&perline=4" height="60" alt="dotnet,mysql,postgres,mongodb"/><br><br>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
-**DevOps, nube y herramientas**
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/lbl-devops.svg" alt="DevOps, nube y herramientas" width="300"/>
 
-![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,aws,gcp,grafana,kafka&perline=9)
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,gitlab,aws,gcp,grafana,kafka&perline=9" height="60" alt="docker,linux,git,github,gitlab,aws,gcp,grafana,kafka"/>
 
 ---
 
 <img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-personales.svg" alt="Proyectos personales" width="830"/>
 
-⚡ **Ideas que se convierten en código.** Lo que construyo por pasión, un proyecto a la vez: cada lanzamiento nuevo aterriza aquí.
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/tag-personales.svg" alt="Ideas que se convierten en código" width="830"/>
 
 <a href="https://github.com/IsaiDardonMayen?tab=repositories"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-personal-next.svg" alt="Próximamente" width="270"/></a>
 
@@ -58,7 +57,7 @@ Me gusta aprender tecnologías nuevas y adaptarme a distintos entornos. Estoy ab
 
 <img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-universitarios.svg" alt="Proyectos universitarios" width="830"/>
 
-<sub>Trabajos realizados durante mi carrera en la Universidad de San Carlos de Guatemala.</sub>
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/tag-universitarios.svg" alt="Trabajos realizados durante mi carrera en la Universidad de San Carlos de Guatemala" width="830"/>
 
 <a href="https://github.com/IsaiDardonMayen/Compi2_Fase1"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-compi2-fase1.svg" alt="Compi2_Fase1" width="270"/></a>&nbsp;&nbsp;<a href="https://github.com/IsaiDardonMayen/G22_Fase2_Fortranpeg"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-fortranpeg-f2.svg" alt="G22_Fase2_Fortranpeg" width="270"/></a>&nbsp;&nbsp;<a href="https://github.com/IsaiDardonMayen/G22_Fase3_FortranPEG"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-fortranpeg-f3.svg" alt="G22_Fase3_FortranPEG" width="270"/></a>
 
