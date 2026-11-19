@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="54" viewBox="0 0 830 54" role="img" aria-label="Stack">
+<defs>
+  <linearGradient id="tx" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#22d3ee"/>
+  </linearGradient>
+  <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0.95"/>
+    <stop offset="0.6" stop-color="#8b5cf6" stop-opacity="0.45"/>
+    <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="8" width="4" height="26" rx="2" fill="#22d3ee"/>
+<text x="16" y="29" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="21" font-weight="700" letter-spacing="2">
+  <tspan fill="#22d3ee">//</tspan><tspan fill="url(#tx)"> STACK</tspan>
+</text>
+<rect x="0" y="45" width="830" height="2" rx="1" fill="url(#ln)"/>
+<circle cy="46" r="3.5" fill="#22d3ee">
+  <animate attributeName="cx" values="0;830" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+</circle>
+</svg>

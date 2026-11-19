@@ -20,7 +20,7 @@
 
 ---
 
-## 👋 Sobre mí
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-sobre-mi.svg" alt="Sobre mí" width="830"/>
 
 Soy estudiante de cierre de **Ingeniería en Ciencias y Sistemas (USAC)**. Desarrollo aplicaciones web de punta a punta: interfaces modernas y responsivas en el frontend, y módulos de software y bases de datos SQL en el backend. También despliego proyectos con **Docker en servidores Linux** y trabajo en equipo con **Git Flow**, pull requests y code reviews.
 
@@ -28,7 +28,7 @@ Me gusta aprender tecnologías nuevas y adaptarme a distintos entornos. Estoy ab
 
 ---
 
-## 🛠️ Stack
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-stack.svg" alt="Stack" width="830"/>
 
 **Lenguajes**
 
@@ -48,37 +48,29 @@ Me gusta aprender tecnologías nuevas y adaptarme a distintos entornos. Estoy ab
 
 ---
 
-## 🚀 Proyectos personales
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-personales.svg" alt="Proyectos personales" width="830"/>
 
-> Esta sección crece con cada proyecto nuevo que construyo fuera de la universidad.
+<sub>Esta sección crece con cada proyecto nuevo que construyo fuera de la universidad.</sub>
 
-| Proyecto | Descripción | Tecnologías | Estado |
-|---|---|---|---|
-| 🔜 *Próximamente* | Mi primer proyecto personal está en construcción. | — | En desarrollo |
+<a href="https://github.com/IsaiDardonMayen?tab=repositories"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-personal-next.svg" alt="Próximamente" width="270"/></a>
 
 ---
 
-## 🎓 Proyectos universitarios
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-universitarios.svg" alt="Proyectos universitarios" width="830"/>
 
-Trabajos realizados durante mi carrera en la **Universidad de San Carlos de Guatemala**.
+<sub>Trabajos realizados durante mi carrera en la Universidad de San Carlos de Guatemala.</sub>
 
-| Proyecto | Curso | Descripción |
-|---|---|---|
-| [**Compi2_Fase1**](https://github.com/IsaiDardonMayen/Compi2_Fase1) | Compiladores 2 | Primera fase del proyecto de compiladores. |
-| [**G22_Fase2_Fortranpeg**](https://github.com/IsaiDardonMayen/G22_Fase2_Fortranpeg) | Compiladores 2 | Generador de parsers para Fortran con PEG y analizador sintáctico descendente recursivo (fork del repo del curso). |
-| [**G22_Fase3_FortranPEG**](https://github.com/IsaiDardonMayen/G22_Fase3_FortranPEG) | Compiladores 2 | Tercera fase del generador de parsers FortranPEG. |
+<a href="https://github.com/IsaiDardonMayen/Compi2_Fase1"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-compi2-fase1.svg" alt="Compi2_Fase1" width="270"/></a>&nbsp;&nbsp;<a href="https://github.com/IsaiDardonMayen/G22_Fase2_Fortranpeg"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-fortranpeg-f2.svg" alt="G22_Fase2_Fortranpeg" width="270"/></a>&nbsp;&nbsp;<a href="https://github.com/IsaiDardonMayen/G22_Fase3_FortranPEG"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-fortranpeg-f3.svg" alt="G22_Fase3_FortranPEG" width="270"/></a>
 
 ---
 
-## 🎓 Formación y certificaciones
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-formacion.svg" alt="Formación y certificaciones" width="830"/>
 
-- **Ingeniería en Ciencias y Sistemas**, USAC (**cierre de pensum**). Cursos relevantes: Software Avanzado, Sistemas de Bases de Datos 1 y 2, Redes de Computadoras 1 y 2, Análisis y Diseño de Sistemas.
-- **AWS Academy Graduate: Machine Learning Foundations** (Training Badge), Amazon Web Services.
-- **Curso profesional de C++**.
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-usac.svg" alt="Ciencias y Sistemas, USAC" width="270"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-aws.svg" alt="AWS Academy Graduate" width="270"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-cpp.svg" alt="Curso de C++" width="270"/>
 
 ---
 
-## 📊 GitHub
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-github.svg" alt="GitHub" width="830"/>
 
 <div align="center">
 
@@ -91,7 +83,7 @@ Trabajos realizados durante mi carrera en la **Universidad de San Carlos de Guat
 
 ---
 
-## 📫 Contacto
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-contacto.svg" alt="Contacto" width="830"/>
 
 <div align="center">
 
