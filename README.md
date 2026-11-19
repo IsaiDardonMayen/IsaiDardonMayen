@@ -72,7 +72,7 @@ Trabajos realizados durante mi carrera en la **Universidad de San Carlos de Guat
 
 ## 🎓 Formación y certificaciones
 
-- **Ingeniería en Ciencias y Sistemas**, USAC (10.º semestre, 290 créditos). Cursos relevantes: Software Avanzado, Sistemas de Bases de Datos 1 y 2, Redes de Computadoras 1 y 2, Análisis y Diseño de Sistemas.
+- **Ingeniería en Ciencias y Sistemas**, USAC (**cierre de pensum**). Cursos relevantes: Software Avanzado, Sistemas de Bases de Datos 1 y 2, Redes de Computadoras 1 y 2, Análisis y Diseño de Sistemas.
 - **AWS Academy Graduate: Machine Learning Foundations** (Training Badge), Amazon Web Services.
 - **Curso profesional de C++**.
 
