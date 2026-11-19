@@ -8,6 +8,16 @@
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
 ---
 
 ## 👋 Sobre mí
@@ -76,14 +86,6 @@ Trabajos realizados durante mi carrera en la **Universidad de San Carlos de Guat
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaiDardonMayen&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaiDardonMayen&theme=tokyonight&hide_border=true" alt="Racha"/>
-
-### 🕹️ Mis contribuciones, a lo Pac-Man
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph.svg">
-</picture>
 
 </div>
 
