@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a name="pacman-dark"><img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"/></a><a name="pacman-light"><img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph.svg#gh-light-mode-only"/></a>
+<a name="pacman-dark"><img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph-dark.svg"/></a>
 
 </div>
 
