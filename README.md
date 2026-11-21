@@ -65,7 +65,7 @@
 
 <img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/hdr-formacion.svg" alt="Formación y certificaciones" width="830"/>
 
-<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-usac.svg" alt="Ciencias y Sistemas, USAC" width="270"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-aws.svg" alt="AWS Academy Graduate" width="270"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-cpp.svg" alt="Curso de C++" width="270"/>
+<img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-usac.svg" alt="Ciencias y Sistemas, USAC" width="270"/>&nbsp;&nbsp;<a href="https://github.com/IsaiDardonMayen/IsaiDardonMayen/blob/main/certificates/aws-academy-ml-foundations.pdf"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-aws.svg" alt="AWS Academy Graduate" width="270"/></a>&nbsp;&nbsp;<a href="https://github.com/IsaiDardonMayen/IsaiDardonMayen/blob/main/certificates/codigo-facilito-cpp.pdf"><img src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/main/assets/card-edu-cpp.svg" alt="Curso de C++" width="270"/></a>
 
 ---
 

@@ -217,9 +217,9 @@ card("card-edu-usac.svg", "Formación · USAC", "Ciencias y Sistemas",
      "Cierre de pensum. Software Avanzado, Bases de Datos 1 y 2, Redes 1 y 2, Análisis y Diseño.",
      [], GREEN)
 card("card-edu-aws.svg", "Certificación · AWS", "AWS Academy Graduate",
-     "Machine Learning Foundations (Training Badge), Amazon Web Services.",
-     ["AWS", "ML"], GREEN)
+     "Machine Learning Foundations (Training Badge). 20 horas, diciembre 2025.",
+     ["AWS", "ML", "VER PDF"], GREEN)
 card("card-edu-cpp.svg", "Curso profesional", "C++",
-     "Curso profesional de C++.",
-     ["C++"], GREEN)
+     "Código Facilito: curso profesional con 2 h 59 min de video-clases. Mayo 2025.",
+     ["C++", "VER PDF"], GREEN)
 print("SVG generados en", os.path.abspath(OUT))

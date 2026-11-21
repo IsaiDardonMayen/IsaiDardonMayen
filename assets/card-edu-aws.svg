@@ -31,8 +31,9 @@
 <text x="20" y="32" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11.5" letter-spacing="1.4" fill="#34d399">CERTIFICACIÓN · AWS</text>
 <text x="20" y="66" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#f1f5f9">AWS Academy Graduate</text>
 <text x="20" y="96" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#9fb0c8">Machine Learning Foundations</text>
-<text x="20" y="116" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#9fb0c8">(Training Badge), Amazon Web</text>
-<text x="20" y="136" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#9fb0c8">Services.</text>
+<text x="20" y="116" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#9fb0c8">(Training Badge). 20 horas,</text>
+<text x="20" y="136" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#9fb0c8">diciembre 2025.</text>
 <rect x="20" y="160" width="42" height="25" rx="12.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="41" y="177" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#34d399">AWS</text>
 <rect x="70.2" y="160" width="35" height="25" rx="12.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="88" y="177" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#34d399">ML</text>
+<rect x="113.0" y="160" width="72" height="25" rx="12.5" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.55"/><text x="149" y="177" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" fill="#34d399">VER PDF</text>
 </svg>
