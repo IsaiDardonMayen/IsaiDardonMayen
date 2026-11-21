@@ -10,11 +10,7 @@
 
 <div align="center">
 
-<a name="n3"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph.svg">
-</picture></a>
+<a name="pacman-dark"><img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"/></a><a name="pacman-light"><img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/IsaiDardonMayen/IsaiDardonMayen/output/pacman-contribution-graph.svg#gh-light-mode-only"/></a>
 
 </div>
 
